@@ -1,7 +1,9 @@
 # Tucker Miles
 [![Linkedin Badge](https://img.shields.io/badge/-tmiles2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tmiles2/)](https://www.linkedin.com/in/tmiles2/) [![Gmail Badge](https://img.shields.io/badge/-tmiles7@vols.utk.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmiles7@vols.utk.edu)](mailto:tmiles7@vols.utk.edu)
 
-### Hi 👋
+### Hi, I'm Tucker 👋
+
+I'm a student at The University of Tennesse, Knoxville getting my degree in computer science with a minor in cybersecurity! I currently work for First Horizon Bank, and will be joining Pilot Company this fall!
 
 
 <!--
