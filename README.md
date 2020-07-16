@@ -5,7 +5,7 @@
 
 I'm a student at The University of Tennesse, Knoxville getting my degree in computer science with a minor in cybersecurity! I currently work for First Horizon Bank, and will be joining Pilot Company this fall!
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tuckermiles70&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tuckermiles70)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
