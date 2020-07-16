@@ -1,5 +1,5 @@
 # Tucker Miles
-[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tmiles2/)](https://www.linkedin.com/in/tmiles2/) [![Gmail Badge](https://img.shields.io/badge/-tmiles7@vols.utk.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmiles7@vols.utk.edu)](mailto:tmiles7@vols.utk.edu)
+[![Linkedin Badge](https://img.shields.io/badge/-tmiles2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tmiles2/)](https://www.linkedin.com/in/tmiles2/) [![Gmail Badge](https://img.shields.io/badge/-tmiles7@vols.utk.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmiles7@vols.utk.edu)](mailto:tmiles7@vols.utk.edu)
 
 ### Hi 👋
 
