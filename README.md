@@ -5,6 +5,10 @@
 
 I'm a student at The University of Tennesse, Knoxville getting my degree in computer science with a minor in cybersecurity! I currently work for First Horizon Bank, and will be joining Pilot Company this fall!
 
+![github stats](https://github-readme-stats.vercel.app/api?username=tuckermiles70&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tuckermiles70.tuckermiles70) 
+
 
 <!--
 **tuckermiles70/tuckermiles70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
