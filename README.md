@@ -5,7 +5,9 @@
 
 I'm a student at The University of Tennesse, Knoxville getting my degree in computer science with a minor in cybersecurity! I currently work for First Horizon Bank, and will be joining Pilot Company this fall!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tuckermiles70)](https://github.com/anuraghazra/github-readme-stats)
+I'm currently working with Python to experiment with Flask and Django!
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tuckermiles70&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
